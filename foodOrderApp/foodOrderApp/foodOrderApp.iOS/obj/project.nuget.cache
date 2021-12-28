@@ -1,12 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "XptCRDOSrFGPuukgJ8YzCe8eBBwRWZ75i+GBW+rLmWJP//lXMXGY+FWcr8BHdjS90dP6z/MGSELlYoia5vXIYA==",
+  "dgSpecHash": "PhSYFEUC1SAhTGAZIsO9Zn5mgmmpw/PVl18Xz211oyIji7lsdmYbWbJ/n2R30mz9REHxpmMBV55sUY6X/66OFQ==",
   "success": true,
   "projectFilePath": "E:\\foodOrderApp\\foodOrderApp\\foodOrderApp\\foodOrderApp.iOS\\foodOrderApp.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\firebasedatabase.net\\4.0.7\\firebasedatabase.net.4.0.7.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms\\5.0.0.2291\\xamarin.forms.5.0.0.2291.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2291\\xamarin.forms.visual.material.5.0.0.2291.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
   ],
   "logs": []
 }
