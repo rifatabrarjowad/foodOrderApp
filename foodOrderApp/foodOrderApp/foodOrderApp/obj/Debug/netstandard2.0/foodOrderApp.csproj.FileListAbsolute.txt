@@ -1,0 +1,16 @@
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\foodOrderApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\Views\ProductsView.xaml.g.cs
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\foodOrderApp.AssemblyInfoInputs.cache
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\foodOrderApp.AssemblyInfo.cs
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\foodOrderApp.csproj.CoreCompileInputs.cache
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\bin\Debug\netstandard2.0\foodOrderApp.deps.json
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\bin\Debug\netstandard2.0\foodOrderApp.dll
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\bin\Debug\netstandard2.0\ref\foodOrderApp.dll
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\bin\Debug\netstandard2.0\foodOrderApp.pdb
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\foodOrderApp.dll
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\ref\foodOrderApp.dll
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp\obj\Debug\netstandard2.0\foodOrderApp.pdb

@@ -1,0 +1,13 @@
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\optimized\
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\foodOrderApp.iOS.csproj.AssemblyReference.cache
+E:\foodOrderApp\foodOrderApp\foodOrderApp\foodOrderApp.iOS\obj\iPhone\Debug\foodOrderApp.iOS.csproj.CoreCompileInputs.cache

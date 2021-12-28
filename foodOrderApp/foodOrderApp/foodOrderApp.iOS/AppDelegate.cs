@@ -24,7 +24,7 @@ namespace foodOrderApp.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             global::Xamarin.Forms.FormsMatrial.Init();
-            LoadApplication(new App());
+            LoadApplication(new App()); 
 
             return base.FinishedLaunching(app, options);
         }
